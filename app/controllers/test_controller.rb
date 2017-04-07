@@ -1,6 +1,6 @@
 class TestController < ApplicationController
   def index
-    @user = User.new(name: 'July')
+    @user = User.new(first_name: 'July')
   end
 
   def create
