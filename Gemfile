@@ -38,7 +38,7 @@ gem 'redis', '~> 3.0'
 gem 'sidekiq', '~> 4.2'
 gem 'mqtt'
 gem 'slim'
-gem 'bootstrap-sass'
+gem 'bower-rails'
 gem 'devise', '~> 4.2'
 
 group :development, :test do
